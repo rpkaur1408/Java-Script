@@ -1,6 +1,7 @@
 // FOR - OF LOOP
 let str ="JavaScript";
 //Adding a comment
+// Adding another comment
 
 let size =0;
 for (let val of str){
